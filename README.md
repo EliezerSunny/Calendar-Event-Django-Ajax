@@ -1,4 +1,4 @@
-# Full Calender Event using Django, Ajax and MYSQL
+# Full Calendar Event using Django, Ajax and MYSQL
 
 ## CRUD using Mysql Database
 
@@ -9,11 +9,11 @@ pip install python
 ```
 
 ```sh 
-git clone https://github.com/EliezerSunny/FullCalender-Django-Ajax.git
+git clone https://github.com/EliezerSunny/FullCalendar-Django-Ajax.git
 ```
 
 ```sh 
-cd FullCallender-Django-Ajax
+cd FullCallendar-Django-Ajax
 ```
 
 ```sh 
