@@ -1,4 +1,4 @@
-# FullCalender-Django-Ajax
+# Full Calender Event using Django, Ajax and MYSQL
 
 ## FullCalender Django Ajax CRUD using Mysql Database
 
