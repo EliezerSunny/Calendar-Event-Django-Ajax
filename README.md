@@ -1,6 +1,6 @@
 # Full Calender Event using Django, Ajax and MYSQL
 
-## FullCalender Django Ajax CRUD using Mysql Database
+## CRUD using Mysql Database
 
 - Make sure to keep your database MYSQL running before running the project.
 
